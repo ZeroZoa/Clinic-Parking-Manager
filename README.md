@@ -12,7 +12,7 @@
 
 ## 개발 도구
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+  <img src="https://img.shields.io/badge/intellijidea-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=22ABF3" />
 </div>
 
 ## Contact
